@@ -1,24 +1,9 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Use with trivia-frontend repository https://github.com/JulianAR97/trivia-frontend
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## ToDo
+Markup : 1. Clone this repository
+         2. enter 'bundle install' into terminal after navigating to project directory
+         3. Start rails server via 'rails s' command
+         4. Follow instructions in trivia-frontend readme
