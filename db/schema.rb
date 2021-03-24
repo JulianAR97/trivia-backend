@@ -21,6 +21,7 @@ ActiveRecord::Schema.define(version: 2021_03_24_002333) do
   create_table "scores", force: :cascade do |t|
     t.string "name"
     t.integer "count"
+    t.integer "category_id"
     t.datetime "created_at", precision: 6, null: false
     t.datetime "updated_at", precision: 6, null: false
   end
